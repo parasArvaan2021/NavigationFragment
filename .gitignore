@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="attrs_currency"><attr format="string" name="currencyCode"/></declare-styleable>
+    <dimen name="cp_dialog_height">300dp</dimen>
+    <dimen name=
+# Project exclude paths
+/.gradle/

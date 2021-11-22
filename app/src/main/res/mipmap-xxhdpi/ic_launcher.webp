@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <attr format="color" name="md_background_color"/>
+    <attr format="enum" name="md_button_casing">
+    <enum name="upper" value="1"/>
+    <enum name="literal" value="2"/>
+  </attr>
+    <attr format="reference" name="md_button_selector"/>
+    <attr format="color" name="md_color_button_text"/>
+    <attr format="color" name="md_color_content"/>
+    <attr format="color" name="md_color_hint"/>
+    <attr format="color" name="md_color_title"/>
+    <attr format="color" name="md_color_widget"/>
+    <attr format="color" name="md_color_widget_unchecked"/>
+    <attr format="dimension" name="md_corner_radius"/>
+    <attr format="color" name="md_divider_color"/>
+    <attr format="reference" name="md_font_body"/>
+    <attr format="reference" name="md_font_button"/>
+    <attr format="reference" name="md_font_title"/>
+    <attr format="reference" name="md_item_selector"/>
+    <attr format="color" name="md_ripple_color"/>
+    <color name="md_btn_selected">#33969696</color>
+    <color name="md_btn_selected_dark">#40CBCBCB</color>
+    <color name="md_disabled_text_dark_theme">#C2C2C2</color>
+    <color name="md_disabled_text_light_theme">#818181</color>
+    <color name="md_divider_dark_theme">#3B3C3F</color>
+    <color name="md_divider_light_theme">#E0E0E0</color>
+    <dimen name="md_action_button_corner_radius">2dp</dimen>
+    <dimen name="md_action_button_frame_padding">8dp</dimen>
+    <dimen name="md_action_button_frame_padding_neutral">7dp</dimen>
+    <dimen name="md_action_button_frame_spec_height">52dp</dimen>
+    <dimen name="md_action_button_inset_horizontal">4dp</dimen>
+    <dimen name="md_action_button_inset_vertical">8dp</dimen>
+    <dimen name="md_action_button_min_width">64dp</dimen>
+    <dimen name="md_action_button_padding_horizontal">12dp</dimen>
+    <dimen name="md_action_button_padding_vertical">4dp</dimen>
+    <dimen name="md_action_button_spacing">8dp</dimen>
+    <dimen name="md_action_button_textsize">14sp</dimen>
+    <dimen name="md_checkbox_prompt_height">48dp</dimen>
+    <dimen name="md_checkbox_prompt_margin_horizontal">16dp</dimen>
+    <dimen name="md_checkbox_prompt_margin_vertical">4dp</dimen>
+    <dimen name="md_dialog_default_corner_radius">2dp</dimen>
+    <dimen name="md_dialog_frame_margin_horizontal">24dp</dimen>
+    <dimen name="md_dialog_frame_margin_vertical">24dp</dimen>
+    <dimen name="md_dialog_frame_margin_vertical_less">16dp</dimen>
+    <dimen name="md_dialog_horizontal_margin">32dp</dimen>
+    <dimen name="md_dialog_max_width">356dp</dimen>
+    <dimen name="md_dialog_title_layout_margin_bottom">20dp</dimen>
+    <dimen name="md_dialog_vertical_margin">52dp</dimen>
+    <dimen name="md_divider_height">1dp</dimen>
+    <dimen name="md_icon_margin">16dp</dimen>
+    <dimen name="md_icon_size">42dp</dimen>
+    <dimen na
